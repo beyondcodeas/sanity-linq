@@ -1142,9 +1142,10 @@
     es6-error "^4.0.2"
     type-of-is "^3.5.1"
 
-"@sanity/vision@^0.141.6":
-  version "0.141.6"
-  resolved "https://registry.npmjs.org/@sanity/vision/-/vision-0.141.6.tgz#2cbad358152f5abc4ad1dc2d5a5fa3b3f821a771"
+"@sanity/vision@^0.147.9":
+  version "0.147.9"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-0.147.9.tgz#c513dc7498f358efb45db58aa453edbe4a952c8c"
+  integrity sha512-RXxKXAjDOdunyNROUAc/RQljfqN+zsbmxtdMRSzODHOBmtpqK8a2+zEa3TrD+rrNQqSq5DgpDc2fdDcN4By1ng==
   dependencies:
     classnames "^2.2.5"
     codemirror "^5.47.0"
